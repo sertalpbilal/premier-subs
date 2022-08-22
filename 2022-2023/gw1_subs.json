@@ -1,0 +1,1588 @@
+{
+    "gw": 1,
+    "games": [
+        {
+            "summary": {
+                "gw": 1,
+                "kickoff": "Fri 5 Aug 2022, 20:00 BST",
+                "team_h": "Crystal Palace",
+                "team_a": "Arsenal",
+                "score_h": 0,
+                "score_a": 2
+            },
+            "subs": [
+                {
+                    "id": 1702103,
+                    "time": {
+                        "secs": 5536,
+                        "label": "90 +3"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Arsenal. Albert Sambi Lokonga replaces Martin \u00d8degaard.",
+                    "playerIds": [
+                        31861,
+                        11419
+                    ],
+                    "on_name": "Albert Sambi Lokonga",
+                    "off_name": "Martin \u00d8degaard",
+                    "on_opta_id": "p437742",
+                    "off_opta_id": "p184029",
+                    "on_fpl_id": 18,
+                    "off_fpl_id": 7
+                },
+                {
+                    "id": 1702096,
+                    "time": {
+                        "secs": 5142,
+                        "label": "86"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Crystal Palace. Malcolm Ebiowei replaces Eberechi Eze.",
+                    "playerIds": [
+                        49485,
+                        21584
+                    ],
+                    "on_name": "Malcolm Ebiowei",
+                    "off_name": "Eberechi Eze",
+                    "on_opta_id": "p450535",
+                    "off_opta_id": "p232413",
+                    "on_fpl_id": 173,
+                    "off_fpl_id": 169
+                },
+                {
+                    "id": 1702101,
+                    "time": {
+                        "secs": 5130,
+                        "label": "86"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Crystal Palace. Will Hughes replaces Jeffrey Schlupp.",
+                    "playerIds": [
+                        8589,
+                        8980
+                    ],
+                    "on_name": "Will Hughes",
+                    "off_name": "Jeffrey Schlupp",
+                    "on_opta_id": "p108413",
+                    "off_opta_id": "p86417",
+                    "on_fpl_id": 163,
+                    "off_fpl_id": 161
+                },
+                {
+                    "id": 1702090,
+                    "time": {
+                        "secs": 4961,
+                        "label": "83"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Arsenal. Eddie Nketiah replaces Gabriel Jesus.",
+                    "playerIds": [
+                        14451,
+                        19680
+                    ],
+                    "on_name": "Eddie Nketiah",
+                    "off_name": "Gabriel Jesus",
+                    "on_opta_id": "p205533",
+                    "off_opta_id": "p205651",
+                    "on_fpl_id": 11,
+                    "off_fpl_id": 28
+                },
+                {
+                    "id": 1702091,
+                    "time": {
+                        "secs": 4940,
+                        "label": "83"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Arsenal. Kieran Tierney replaces Oleksandr Zinchenko.",
+                    "playerIds": [
+                        12185,
+                        19620
+                    ],
+                    "on_name": "Kieran Tierney",
+                    "off_name": "Oleksandr Zinchenko",
+                    "on_opta_id": "p192895",
+                    "off_opta_id": "p206325",
+                    "on_fpl_id": 8,
+                    "off_fpl_id": 313
+                },
+                {
+                    "id": 1702084,
+                    "time": {
+                        "secs": 4468,
+                        "label": "75"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Crystal Palace. Luka Milivojevic replaces Cheick Oumar Doucour\u00e9 because of an injury.",
+                    "playerIds": [
+                        5859,
+                        126670
+                    ],
+                    "on_name": "Luka Milivojevic",
+                    "off_name": "Cheick Oumar Doucour\u00e9",
+                    "on_opta_id": "p66975",
+                    "off_opta_id": "p438464",
+                    "on_fpl_id": 158,
+                    "off_fpl_id": 514
+                },
+                {
+                    "id": 1702064,
+                    "time": {
+                        "secs": 3470,
+                        "label": "58"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Crystal Palace. Jean-Philippe Mateta replaces Odsonne \u00c9douard.",
+                    "playerIds": [
+                        20874,
+                        16788
+                    ],
+                    "on_name": "Jean-Philippe Mateta",
+                    "off_name": "Odsonne \u00c9douard",
+                    "on_opta_id": "p231747",
+                    "off_opta_id": "p199670",
+                    "on_fpl_id": 168,
+                    "off_fpl_id": 166
+                }
+            ]
+        },
+        {
+            "summary": {
+                "gw": 1,
+                "kickoff": "Sat 6 Aug 2022, 12:30 BST",
+                "team_h": "Fulham",
+                "team_a": "Liverpool",
+                "score_h": 2,
+                "score_a": 2
+            },
+            "subs": [
+                {
+                    "id": 1702190,
+                    "time": {
+                        "secs": 5611,
+                        "label": "90 +4"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Fulham. Shane Duffy replaces Bobby De Cordova-Reid.",
+                    "playerIds": [
+                        3601,
+                        8192
+                    ],
+                    "on_name": "Shane Duffy",
+                    "off_name": "Bobby De Cordova-Reid",
+                    "on_opta_id": "p61933",
+                    "off_opta_id": "p96994",
+                    "on_fpl_id": 105,
+                    "off_fpl_id": 205
+                },
+                {
+                    "id": 1702188,
+                    "time": {
+                        "secs": 5319,
+                        "label": "89"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Fulham. Tom Cairney replaces Andreas Pereira.",
+                    "playerIds": [
+                        3894,
+                        10476
+                    ],
+                    "on_name": "Tom Cairney",
+                    "off_name": "Andreas Pereira",
+                    "on_opta_id": "p76357",
+                    "off_opta_id": "p156689",
+                    "on_fpl_id": 200,
+                    "off_fpl_id": 346
+                },
+                {
+                    "id": 1702175,
+                    "time": {
+                        "secs": 4629,
+                        "label": "78"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Liverpool. F\u00e1bio Carvalho replaces Luis D\u00edaz.",
+                    "playerIds": [
+                        32289,
+                        66669
+                    ],
+                    "on_name": "F\u00e1bio Carvalho",
+                    "off_name": "Luis D\u00edaz",
+                    "on_opta_id": "p244858",
+                    "off_opta_id": "p244731",
+                    "on_fpl_id": 296,
+                    "off_fpl_id": 293
+                },
+                {
+                    "id": 1702161,
+                    "time": {
+                        "secs": 3904,
+                        "label": "66"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Fulham. Manor Solomon replaces Neeskens Kebano.",
+                    "playerIds": [
+                        62934,
+                        20178
+                    ],
+                    "on_name": "Manor Solomon",
+                    "off_name": "Neeskens Kebano",
+                    "on_opta_id": "p235674",
+                    "off_opta_id": "p92259",
+                    "on_fpl_id": 562,
+                    "off_fpl_id": 204
+                },
+                {
+                    "id": 1702158,
+                    "time": {
+                        "secs": 3510,
+                        "label": "59"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Liverpool. James Milner replaces Fabinho.",
+                    "playerIds": [
+                        2100,
+                        11247
+                    ],
+                    "on_name": "James Milner",
+                    "off_name": "Fabinho",
+                    "on_opta_id": "p15157",
+                    "off_opta_id": "p116643",
+                    "on_fpl_id": 274,
+                    "off_fpl_id": 282
+                },
+                {
+                    "id": 1702149,
+                    "time": {
+                        "secs": 3024,
+                        "label": "51"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Liverpool. Darwin N\u00fa\u00f1ez replaces Roberto Firmino.",
+                    "playerIds": [
+                        70287,
+                        13511
+                    ],
+                    "on_name": "Darwin N\u00fa\u00f1ez",
+                    "off_name": "Roberto Firmino",
+                    "on_opta_id": "p447203",
+                    "off_opta_id": "p92217",
+                    "on_fpl_id": 297,
+                    "off_fpl_id": 279
+                },
+                {
+                    "id": 1702147,
+                    "time": {
+                        "secs": 3020,
+                        "label": "51"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Liverpool. Harvey Elliott replaces Thiago because of an injury.",
+                    "playerIds": [
+                        33185,
+                        5264
+                    ],
+                    "on_name": "Harvey Elliott",
+                    "off_name": "Thiago",
+                    "on_opta_id": "p444884",
+                    "off_opta_id": "p61558",
+                    "on_fpl_id": 294,
+                    "off_fpl_id": 277
+                }
+            ]
+        },
+        {
+            "summary": {
+                "gw": 1,
+                "kickoff": "Sat 6 Aug 2022, 15:00 BST",
+                "team_h": "AFC Bournemouth",
+                "team_a": "Aston Villa",
+                "score_h": 2,
+                "score_a": 0
+            },
+            "subs": [
+                {
+                    "id": 1702612,
+                    "time": {
+                        "secs": 5693,
+                        "label": "90 +5"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Bournemouth. Junior Stanislas replaces Dominic Solanke.",
+                    "playerIds": [
+                        3766,
+                        10443
+                    ],
+                    "on_name": "Junior Stanislas",
+                    "off_name": "Dominic Solanke",
+                    "on_opta_id": "p56872",
+                    "off_opta_id": "p154566",
+                    "on_fpl_id": 58,
+                    "off_fpl_id": 66
+                },
+                {
+                    "id": 1702551,
+                    "time": {
+                        "secs": 5146,
+                        "label": "86"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Bournemouth. Ryan Christie replaces Marcus Tavernier because of an injury.",
+                    "playerIds": [
+                        15572,
+                        14846
+                    ],
+                    "on_name": "Ryan Christie",
+                    "off_name": "Marcus Tavernier",
+                    "on_opta_id": "p158499",
+                    "off_opta_id": "p201658",
+                    "on_fpl_id": 69,
+                    "off_fpl_id": 535
+                },
+                {
+                    "id": 1702538,
+                    "time": {
+                        "secs": 4866,
+                        "label": "82"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Aston Villa. Douglas Luiz replaces Boubacar Kamara.",
+                    "playerIds": [
+                        24626,
+                        25067
+                    ],
+                    "on_name": "Douglas Luiz",
+                    "off_name": "Boubacar Kamara",
+                    "on_opta_id": "p230046",
+                    "off_opta_id": "p226944",
+                    "on_fpl_id": 46,
+                    "off_fpl_id": 53
+                },
+                {
+                    "id": 1702535,
+                    "time": {
+                        "secs": 4851,
+                        "label": "81"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Aston Villa. Cameron Archer replaces Philippe Coutinho.",
+                    "playerIds": [
+                        25281,
+                        4525
+                    ],
+                    "on_name": "Cameron Archer",
+                    "off_name": "Philippe Coutinho",
+                    "on_opta_id": "p433979",
+                    "off_opta_id": "p84583",
+                    "on_fpl_id": 54,
+                    "off_fpl_id": 29
+                },
+                {
+                    "id": 1702500,
+                    "time": {
+                        "secs": 4286,
+                        "label": "72"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Bournemouth. Lewis Cook replaces Ben Pearson.",
+                    "playerIds": [
+                        10766,
+                        10566
+                    ],
+                    "on_name": "Lewis Cook",
+                    "off_name": "Ben Pearson",
+                    "on_opta_id": "p155408",
+                    "off_opta_id": "p156687",
+                    "on_fpl_id": 67,
+                    "off_fpl_id": 68
+                },
+                {
+                    "id": 1702477,
+                    "time": {
+                        "secs": 3907,
+                        "label": "66"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Aston Villa. Ollie Watkins replaces Danny Ings.",
+                    "playerIds": [
+                        8658,
+                        8245
+                    ],
+                    "on_name": "Ollie Watkins",
+                    "off_name": "Danny Ings",
+                    "on_opta_id": "p178301",
+                    "off_opta_id": "p84939",
+                    "on_fpl_id": 40,
+                    "off_fpl_id": 30
+                },
+                {
+                    "id": 1702403,
+                    "time": {
+                        "secs": 2700,
+                        "label": "46"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Aston Villa. Emiliano Buend\u00eda replaces Jacob Ramsey.",
+                    "playerIds": [
+                        26408,
+                        19888
+                    ],
+                    "on_name": "Emiliano Buend\u00eda",
+                    "off_name": "Jacob Ramsey",
+                    "on_opta_id": "p195546",
+                    "off_opta_id": "p232653",
+                    "on_fpl_id": 42,
+                    "off_fpl_id": 47
+                }
+            ]
+        },
+        {
+            "summary": {
+                "gw": 1,
+                "kickoff": "Sat 6 Aug 2022, 15:00 BST",
+                "team_h": "Leeds United",
+                "team_a": "Wolverhampton Wanderers",
+                "score_h": 2,
+                "score_a": 1
+            },
+            "subs": [
+                {
+                    "id": 1702562,
+                    "time": {
+                        "secs": 5080,
+                        "label": "85"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Wolverhampton Wanderers. Chem Campbell replaces Hwang Hee-Chan.",
+                    "playerIds": [
+                        51648,
+                        20337
+                    ],
+                    "on_name": "Chem Campbell",
+                    "off_name": "Hwang Hee-Chan",
+                    "on_opta_id": "p461026",
+                    "off_opta_id": "p184754",
+                    "on_fpl_id": 568,
+                    "off_fpl_id": 481
+                },
+                {
+                    "id": 1702565,
+                    "time": {
+                        "secs": 5036,
+                        "label": "84"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Leeds United. Joe Gelhardt replaces Patrick Bamford.",
+                    "playerIds": [
+                        51754,
+                        4291
+                    ],
+                    "on_name": "Joe Gelhardt",
+                    "off_name": "Patrick Bamford",
+                    "on_opta_id": "p462635",
+                    "off_opta_id": "p106617",
+                    "on_fpl_id": 242,
+                    "off_fpl_id": 227
+                },
+                {
+                    "id": 1702564,
+                    "time": {
+                        "secs": 5021,
+                        "label": "84"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Leeds United. Crysencio Summerville replaces Brenden Aaronson.",
+                    "playerIds": [
+                        65961,
+                        63289
+                    ],
+                    "on_name": "Crysencio Summerville",
+                    "off_name": "Brenden Aaronson",
+                    "on_opta_id": "p450070",
+                    "off_opta_id": "p427637",
+                    "on_fpl_id": 240,
+                    "off_fpl_id": 246
+                },
+                {
+                    "id": 1702512,
+                    "time": {
+                        "secs": 4338,
+                        "label": "73"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Leeds United. Sam Greenwood replaces Marc Roca.",
+                    "playerIds": [
+                        23911,
+                        22656
+                    ],
+                    "on_name": "Sam Greenwood",
+                    "off_name": "Marc Roca",
+                    "on_opta_id": "p248937",
+                    "off_opta_id": "p234370",
+                    "on_fpl_id": 237,
+                    "off_fpl_id": 245
+                },
+                {
+                    "id": 1702465,
+                    "time": {
+                        "secs": 3844,
+                        "label": "65"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Leeds United. Mateusz Klich replaces Rodrigo.",
+                    "playerIds": [
+                        13089,
+                        4095
+                    ],
+                    "on_name": "Mateusz Klich",
+                    "off_name": "Rodrigo",
+                    "on_opta_id": "p72222",
+                    "off_opta_id": "p80954",
+                    "on_fpl_id": 223,
+                    "off_fpl_id": 225
+                }
+            ]
+        },
+        {
+            "summary": {
+                "gw": 1,
+                "kickoff": "Sat 6 Aug 2022, 15:00 BST",
+                "team_h": "Newcastle United",
+                "team_a": "Nottingham Forest",
+                "score_h": 2,
+                "score_a": 0
+            },
+            "subs": [
+                {
+                    "id": 1702596,
+                    "time": {
+                        "secs": 5543,
+                        "label": "90 +3"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Newcastle United. Sven Botman replaces Bruno Guimar\u00e3es.",
+                    "playerIds": [
+                        49908,
+                        74761
+                    ],
+                    "on_name": "Sven Botman",
+                    "off_name": "Bruno Guimar\u00e3es",
+                    "on_opta_id": "p220237",
+                    "off_opta_id": "p208706",
+                    "on_fpl_id": 377,
+                    "off_fpl_id": 374
+                },
+                {
+                    "id": 1702586,
+                    "time": {
+                        "secs": 5342,
+                        "label": "90"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Newcastle United. Jacob Murphy replaces Allan Saint-Maximin.",
+                    "playerIds": [
+                        9662,
+                        12817
+                    ],
+                    "on_name": "Jacob Murphy",
+                    "off_name": "Allan Saint-Maximin",
+                    "on_opta_id": "p114243",
+                    "off_opta_id": "p170137",
+                    "on_fpl_id": 365,
+                    "off_fpl_id": 368
+                },
+                {
+                    "id": 1702583,
+                    "time": {
+                        "secs": 5337,
+                        "label": "89"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Newcastle United. Chris Wood replaces Callum Wilson.",
+                    "playerIds": [
+                        3756,
+                        8454
+                    ],
+                    "on_name": "Chris Wood",
+                    "off_name": "Callum Wilson",
+                    "on_opta_id": "p60689",
+                    "off_opta_id": "p75115",
+                    "on_fpl_id": 354,
+                    "off_fpl_id": 356
+                },
+                {
+                    "id": 1702539,
+                    "time": {
+                        "secs": 4933,
+                        "label": "83"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Nottingham Forest. Alex Mighten replaces Moussa Niakhat\u00e9.",
+                    "playerIds": [
+                        51736,
+                        50862
+                    ],
+                    "on_name": "Alex Mighten",
+                    "off_name": "Moussa Niakhat\u00e9",
+                    "on_opta_id": "p244930",
+                    "off_opta_id": "p199170",
+                    "on_fpl_id": 395,
+                    "off_fpl_id": 507
+                },
+                {
+                    "id": 1702529,
+                    "time": {
+                        "secs": 4820,
+                        "label": "81"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Newcastle United. Ryan Fraser replaces Miguel Almir\u00f3n.",
+                    "playerIds": [
+                        8052,
+                        54312
+                    ],
+                    "on_name": "Ryan Fraser",
+                    "off_name": "Miguel Almir\u00f3n",
+                    "on_opta_id": "p90105",
+                    "off_opta_id": "p179018",
+                    "on_fpl_id": 359,
+                    "off_fpl_id": 369
+                },
+                {
+                    "id": 1702528,
+                    "time": {
+                        "secs": 4794,
+                        "label": "80"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Newcastle United. Sean Longstaff replaces Joe Willock.",
+                    "playerIds": [
+                        14897,
+                        14446
+                    ],
+                    "on_name": "Sean Longstaff",
+                    "off_name": "Joe Willock",
+                    "on_opta_id": "p180135",
+                    "off_opta_id": "p200089",
+                    "on_fpl_id": 370,
+                    "off_fpl_id": 373
+                },
+                {
+                    "id": 1702513,
+                    "time": {
+                        "secs": 4463,
+                        "label": "75"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Nottingham Forest. Orel Mangala replaces Lewis O'Brien.",
+                    "playerIds": [
+                        49738,
+                        24353
+                    ],
+                    "on_name": "Orel Mangala",
+                    "off_name": "Lewis O'Brien",
+                    "on_opta_id": "p179519",
+                    "off_opta_id": "p243345",
+                    "on_fpl_id": 536,
+                    "off_fpl_id": 524
+                },
+                {
+                    "id": 1702457,
+                    "time": {
+                        "secs": 3769,
+                        "label": "63"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Nottingham Forest. Taiwo Awoniyi replaces Sam Surridge.",
+                    "playerIds": [
+                        15340,
+                        13195
+                    ],
+                    "on_name": "Taiwo Awoniyi",
+                    "off_name": "Sam Surridge",
+                    "on_opta_id": "p210156",
+                    "off_opta_id": "p217331",
+                    "on_fpl_id": 397,
+                    "off_fpl_id": 391
+                }
+            ]
+        },
+        {
+            "summary": {
+                "gw": 1,
+                "kickoff": "Sat 6 Aug 2022, 15:00 BST",
+                "team_h": "Tottenham Hotspur",
+                "team_a": "Southampton",
+                "score_h": 4,
+                "score_a": 1
+            },
+            "subs": [
+                {
+                    "id": 1702589,
+                    "time": {
+                        "secs": 5480,
+                        "label": "90 +2"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Southampton. Nathan Redmond replaces Kyle Walker-Peters.",
+                    "playerIds": [
+                        3811,
+                        13815
+                    ],
+                    "on_name": "Nathan Redmond",
+                    "off_name": "Kyle Walker-Peters",
+                    "on_opta_id": "p83283",
+                    "off_opta_id": "p158534",
+                    "on_fpl_id": 403,
+                    "off_fpl_id": 409
+                },
+                {
+                    "id": 1702546,
+                    "time": {
+                        "secs": 5174,
+                        "label": "87"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Tottenham Hotspur. Matt Doherty replaces Emerson Royal.",
+                    "playerIds": [
+                        4229,
+                        63654
+                    ],
+                    "on_name": "Matt Doherty",
+                    "off_name": "Emerson Royal",
+                    "on_opta_id": "p87835",
+                    "off_opta_id": "p241157",
+                    "on_fpl_id": 429,
+                    "off_fpl_id": 445
+                },
+                {
+                    "id": 1702547,
+                    "time": {
+                        "secs": 5151,
+                        "label": "86"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Tottenham Hotspur. Yves Bissouma replaces Rodrigo Bentancur.",
+                    "playerIds": [
+                        50245,
+                        22802
+                    ],
+                    "on_name": "Yves Bissouma",
+                    "off_name": "Rodrigo Bentancur",
+                    "on_opta_id": "p227127",
+                    "off_opta_id": "p202993",
+                    "on_fpl_id": 444,
+                    "off_fpl_id": 440
+                },
+                {
+                    "id": 1702544,
+                    "time": {
+                        "secs": 5144,
+                        "label": "86"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Tottenham Hotspur. Cl\u00e9ment Lenglet replaces Ben Davies.",
+                    "playerIds": [
+                        21647,
+                        4408
+                    ],
+                    "on_name": "Cl\u00e9ment Lenglet",
+                    "off_name": "Ben Davies",
+                    "on_opta_id": "p171101",
+                    "off_opta_id": "p115556",
+                    "on_fpl_id": 513,
+                    "off_fpl_id": 432
+                },
+                {
+                    "id": 1702545,
+                    "time": {
+                        "secs": 5125,
+                        "label": "86"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Tottenham Hotspur. Lucas Moura replaces Dejan Kulusevski.",
+                    "playerIds": [
+                        5762,
+                        49316
+                    ],
+                    "on_name": "Lucas Moura",
+                    "off_name": "Dejan Kulusevski",
+                    "on_opta_id": "p95715",
+                    "off_opta_id": "p445044",
+                    "on_fpl_id": 431,
+                    "off_fpl_id": 446
+                },
+                {
+                    "id": 1702508,
+                    "time": {
+                        "secs": 4480,
+                        "label": "75"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Southampton. Ibrahima Diallo replaces Oriol Romeu.",
+                    "playerIds": [
+                        49610,
+                        4286
+                    ],
+                    "on_name": "Ibrahima Diallo",
+                    "off_name": "Oriol Romeu",
+                    "on_opta_id": "p240143",
+                    "off_opta_id": "p78056",
+                    "on_fpl_id": 416,
+                    "off_fpl_id": 402
+                },
+                {
+                    "id": 1702491,
+                    "time": {
+                        "secs": 4274,
+                        "label": "72"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Southampton. Romain Perraud replaces Moussa Djenepo.",
+                    "playerIds": [
+                        21495,
+                        52153
+                    ],
+                    "on_name": "Romain Perraud",
+                    "off_name": "Moussa Djenepo",
+                    "on_opta_id": "p244560",
+                    "off_opta_id": "p431131",
+                    "on_fpl_id": 417,
+                    "off_fpl_id": 418
+                },
+                {
+                    "id": 1702463,
+                    "time": {
+                        "secs": 3954,
+                        "label": "66"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Tottenham Hotspur. Ivan Perisic replaces Ryan Sessegnon.",
+                    "playerIds": [
+                        12901,
+                        14656
+                    ],
+                    "on_name": "Ivan Perisic",
+                    "off_name": "Ryan Sessegnon",
+                    "on_opta_id": "p45034",
+                    "off_opta_id": "p184349",
+                    "on_fpl_id": 448,
+                    "off_fpl_id": 436
+                },
+                {
+                    "id": 1702397,
+                    "time": {
+                        "secs": 2700,
+                        "label": "46"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Southampton. Stuart Armstrong replaces Adam Armstrong.",
+                    "playerIds": [
+                        12186,
+                        9199
+                    ],
+                    "on_name": "Stuart Armstrong",
+                    "off_name": "Adam Armstrong",
+                    "on_opta_id": "p91047",
+                    "off_opta_id": "p155511",
+                    "on_fpl_id": 405,
+                    "off_fpl_id": 408
+                },
+                {
+                    "id": 1702396,
+                    "time": {
+                        "secs": 2700,
+                        "label": "46"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Southampton. Jack Stephens replaces Yan Valery.",
+                    "playerIds": [
+                        4612,
+                        15011
+                    ],
+                    "on_name": "Jack Stephens",
+                    "off_name": "Yan Valery",
+                    "on_opta_id": "p88900",
+                    "off_opta_id": "p213482",
+                    "on_fpl_id": 404,
+                    "off_fpl_id": 414
+                }
+            ]
+        },
+        {
+            "summary": {
+                "gw": 1,
+                "kickoff": "Sat 6 Aug 2022, 17:30 BST",
+                "team_h": "Everton",
+                "team_a": "Chelsea",
+                "score_h": 0,
+                "score_a": 1
+            },
+            "subs": [
+                {
+                    "id": 1702728,
+                    "time": {
+                        "secs": 5896,
+                        "label": "90 +9"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Chelsea. Conor Gallagher replaces Jorginho.",
+                    "playerIds": [
+                        21887,
+                        5682
+                    ],
+                    "on_name": "Conor Gallagher",
+                    "off_name": "Jorginho",
+                    "on_opta_id": "p232787",
+                    "off_opta_id": "p85955",
+                    "on_fpl_id": 148,
+                    "off_fpl_id": 130
+                },
+                {
+                    "id": 1702700,
+                    "time": {
+                        "secs": 4456,
+                        "label": "75"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Chelsea. Armando Broja replaces Kai Havertz.",
+                    "playerIds": [
+                        31442,
+                        20810
+                    ],
+                    "on_name": "Armando Broja",
+                    "off_name": "Kai Havertz",
+                    "on_opta_id": "p440323",
+                    "off_opta_id": "p219847",
+                    "on_fpl_id": 150,
+                    "off_fpl_id": 145
+                },
+                {
+                    "id": 1702699,
+                    "time": {
+                        "secs": 4447,
+                        "label": "75"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Chelsea. Marc Cucurella replaces Kalidou Koulibaly because of an injury.",
+                    "playerIds": [
+                        27277,
+                        6709
+                    ],
+                    "on_name": "Marc Cucurella",
+                    "off_name": "Kalidou Koulibaly",
+                    "on_opta_id": "p179268",
+                    "off_opta_id": "p86129",
+                    "on_fpl_id": 112,
+                    "off_fpl_id": 520
+                },
+                {
+                    "id": 1702696,
+                    "time": {
+                        "secs": 4159,
+                        "label": "70"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Everton. R\u00faben Vinagre replaces Yerry Mina because of an injury.",
+                    "playerIds": [
+                        20171,
+                        32923
+                    ],
+                    "on_name": "R\u00faben Vinagre",
+                    "off_name": "Yerry Mina",
+                    "on_opta_id": "p216054",
+                    "off_opta_id": "p164511",
+                    "on_fpl_id": 531,
+                    "off_fpl_id": 188
+                },
+                {
+                    "id": 1702695,
+                    "time": {
+                        "secs": 3886,
+                        "label": "65"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Chelsea. Ruben Loftus-Cheek replaces Ben Chilwell.",
+                    "playerIds": [
+                        5179,
+                        13491
+                    ],
+                    "on_name": "Ruben Loftus-Cheek",
+                    "off_name": "Ben Chilwell",
+                    "on_opta_id": "p126187",
+                    "off_opta_id": "p172850",
+                    "on_fpl_id": 136,
+                    "off_fpl_id": 139
+                },
+                {
+                    "id": 1702694,
+                    "time": {
+                        "secs": 3879,
+                        "label": "65"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Chelsea. Christian Pulisic replaces Mason Mount.",
+                    "playerIds": [
+                        15559,
+                        14580
+                    ],
+                    "on_name": "Christian Pulisic",
+                    "off_name": "Mason Mount",
+                    "on_opta_id": "p176413",
+                    "off_opta_id": "p184341",
+                    "on_fpl_id": 140,
+                    "off_fpl_id": 142
+                },
+                {
+                    "id": 1702692,
+                    "time": {
+                        "secs": 3646,
+                        "label": "61"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Everton. Dele Alli replaces Dwight McNeil.",
+                    "playerIds": [
+                        9167,
+                        24797
+                    ],
+                    "on_name": "Dele Alli",
+                    "off_name": "Dwight McNeil",
+                    "on_opta_id": "p108823",
+                    "off_opta_id": "p433154",
+                    "on_fpl_id": 181,
+                    "off_fpl_id": 534
+                },
+                {
+                    "id": 1702630,
+                    "time": {
+                        "secs": 1039,
+                        "label": "18"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Everton. Mason Holgate replaces Ben Godfrey because of an injury.",
+                    "playerIds": [
+                        10564,
+                        10968
+                    ],
+                    "on_name": "Mason Holgate",
+                    "off_name": "Ben Godfrey",
+                    "on_opta_id": "p194164",
+                    "off_opta_id": "p198826",
+                    "on_fpl_id": 192,
+                    "off_fpl_id": 193
+                }
+            ]
+        },
+        {
+            "summary": {
+                "gw": 1,
+                "kickoff": "Sun 7 Aug 2022, 14:00 BST",
+                "team_h": "Leicester City",
+                "team_a": "Brentford",
+                "score_h": 2,
+                "score_a": 2
+            },
+            "subs": [
+                {
+                    "id": 1702877,
+                    "time": {
+                        "secs": 4967,
+                        "label": "83"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Brentford. Halil Dervisoglu replaces Yoane Wissa.",
+                    "playerIds": [
+                        49461,
+                        117497
+                    ],
+                    "on_name": "Halil Dervisoglu",
+                    "off_name": "Yoane Wissa",
+                    "on_opta_id": "p434662",
+                    "off_opta_id": "p216646",
+                    "on_fpl_id": 541,
+                    "off_fpl_id": 89
+                },
+                {
+                    "id": 1702876,
+                    "time": {
+                        "secs": 4967,
+                        "label": "83"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Brentford. Mads Bech S\u00f8rensen replaces Aaron Hickey.",
+                    "playerIds": [
+                        25540,
+                        115166
+                    ],
+                    "on_name": "Mads Bech S\u00f8rensen",
+                    "off_name": "Aaron Hickey",
+                    "on_opta_id": "p228044",
+                    "off_opta_id": "p472713",
+                    "on_fpl_id": 91,
+                    "off_fpl_id": 510
+                },
+                {
+                    "id": 1702850,
+                    "time": {
+                        "secs": 4356,
+                        "label": "73"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Brentford. Shandon Baptiste replaces Christian N\u00f8rgaard.",
+                    "playerIds": [
+                        24773,
+                        42331
+                    ],
+                    "on_name": "Shandon Baptiste",
+                    "off_name": "Christian N\u00f8rgaard",
+                    "on_opta_id": "p432160",
+                    "off_opta_id": "p128295",
+                    "on_fpl_id": 94,
+                    "off_fpl_id": 79
+                },
+                {
+                    "id": 1702848,
+                    "time": {
+                        "secs": 4333,
+                        "label": "73"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Leicester City. Patson Daka replaces Kiernan Dewsbury-Hall.",
+                    "playerIds": [
+                        24994,
+                        14706
+                    ],
+                    "on_name": "Patson Daka",
+                    "off_name": "Kiernan Dewsbury-Hall",
+                    "on_opta_id": "p245419",
+                    "off_opta_id": "p215413",
+                    "on_fpl_id": 271,
+                    "off_fpl_id": 266
+                },
+                {
+                    "id": 1702822,
+                    "time": {
+                        "secs": 3495,
+                        "label": "59"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Brentford. Keane Lewis-Potter replaces Ben Mee.",
+                    "playerIds": [
+                        24369,
+                        3909
+                    ],
+                    "on_name": "Keane Lewis-Potter",
+                    "off_name": "Ben Mee",
+                    "on_opta_id": "p249231",
+                    "off_opta_id": "p51927",
+                    "on_fpl_id": 515,
+                    "off_fpl_id": 526
+                },
+                {
+                    "id": 1702824,
+                    "time": {
+                        "secs": 3483,
+                        "label": "59"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Brentford. Josh Dasilva replaces Mathias Jensen.",
+                    "playerIds": [
+                        14457,
+                        49726
+                    ],
+                    "on_name": "Josh Dasilva",
+                    "off_name": "Mathias Jensen",
+                    "on_opta_id": "p183656",
+                    "off_opta_id": "p207283",
+                    "on_fpl_id": 83,
+                    "off_fpl_id": 88
+                }
+            ]
+        },
+        {
+            "summary": {
+                "gw": 1,
+                "kickoff": "Sun 7 Aug 2022, 14:00 BST",
+                "team_h": "Manchester United",
+                "team_a": "Brighton and Hove Albion",
+                "score_h": 1,
+                "score_a": 2
+            },
+            "subs": [
+                {
+                    "id": 1702906,
+                    "time": {
+                        "secs": 5683,
+                        "label": "90 +5"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Brighton and Hove Albion. Deniz Undav replaces Danny Welbeck.",
+                    "playerIds": [
+                        114957,
+                        3452
+                    ],
+                    "on_name": "Deniz Undav",
+                    "off_name": "Danny Welbeck",
+                    "on_opta_id": "p450434",
+                    "off_opta_id": "p50175",
+                    "on_fpl_id": 123,
+                    "off_fpl_id": 103
+                },
+                {
+                    "id": 1702893,
+                    "time": {
+                        "secs": 5425,
+                        "label": "90 +1"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Brighton and Hove Albion. Levi Colwill replaces Solly March.",
+                    "playerIds": [
+                        51229,
+                        8171
+                    ],
+                    "on_name": "Levi Colwill",
+                    "off_name": "Solly March",
+                    "on_opta_id": "p460028",
+                    "off_opta_id": "p109345",
+                    "on_fpl_id": 559,
+                    "off_fpl_id": 107
+                },
+                {
+                    "id": 1702897,
+                    "time": {
+                        "secs": 5391,
+                        "label": "90"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Manchester United. Tyrell Malacia replaces Luke Shaw.",
+                    "playerIds": [
+                        23581,
+                        4608
+                    ],
+                    "on_name": "Tyrell Malacia",
+                    "off_name": "Luke Shaw",
+                    "on_opta_id": "p222690",
+                    "off_opta_id": "p106760",
+                    "on_fpl_id": 504,
+                    "off_fpl_id": 332
+                },
+                {
+                    "id": 1702895,
+                    "time": {
+                        "secs": 5377,
+                        "label": "90"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Manchester United. Anthony Elanga replaces Jadon Sancho.",
+                    "playerIds": [
+                        49259,
+                        14801
+                    ],
+                    "on_name": "Anthony Elanga",
+                    "off_name": "Jadon Sancho",
+                    "on_opta_id": "p449434",
+                    "off_opta_id": "p209243",
+                    "on_fpl_id": 344,
+                    "off_fpl_id": 340
+                },
+                {
+                    "id": 1702899,
+                    "time": {
+                        "secs": 5374,
+                        "label": "90"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Manchester United. Alejandro Garnacho replaces Bruno Fernandes.",
+                    "playerIds": [
+                        68987,
+                        23396
+                    ],
+                    "on_name": "Alejandro Garnacho",
+                    "off_name": "Bruno Fernandes",
+                    "on_opta_id": "p493105",
+                    "off_opta_id": "p141746",
+                    "on_fpl_id": 569,
+                    "off_fpl_id": 333
+                },
+                {
+                    "id": 1702867,
+                    "time": {
+                        "secs": 4641,
+                        "label": "78"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Manchester United. Donny van de Beek replaces Scott McTominay.",
+                    "playerIds": [
+                        11031,
+                        14824
+                    ],
+                    "on_name": "Donny van de Beek",
+                    "off_name": "Scott McTominay",
+                    "on_opta_id": "p180184",
+                    "off_opta_id": "p195851",
+                    "on_fpl_id": 336,
+                    "off_fpl_id": 338
+                },
+                {
+                    "id": 1702861,
+                    "time": {
+                        "secs": 4504,
+                        "label": "76"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Brighton and Hove Albion. Enock Mwepu replaces Adam Lallana.",
+                    "playerIds": [
+                        25467,
+                        4618
+                    ],
+                    "on_name": "Enock Mwepu",
+                    "off_name": "Adam Lallana",
+                    "on_opta_id": "p423649",
+                    "off_opta_id": "p39155",
+                    "on_fpl_id": 118,
+                    "off_fpl_id": 101
+                },
+                {
+                    "id": 1702860,
+                    "time": {
+                        "secs": 4477,
+                        "label": "75"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Brighton and Hove Albion. Tariq Lamptey replaces Leandro Trossard.",
+                    "playerIds": [
+                        23704,
+                        20486
+                    ],
+                    "on_name": "Tariq Lamptey",
+                    "off_name": "Leandro Trossard",
+                    "on_opta_id": "p232792",
+                    "off_opta_id": "p116216",
+                    "on_fpl_id": 114,
+                    "off_fpl_id": 111
+                },
+                {
+                    "id": 1702817,
+                    "time": {
+                        "secs": 3154,
+                        "label": "53"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Manchester United. Cristiano Ronaldo replaces Fred.",
+                    "playerIds": [
+                        2522,
+                        5906
+                    ],
+                    "on_name": "Cristiano Ronaldo",
+                    "off_name": "Fred",
+                    "on_opta_id": "p14937",
+                    "off_opta_id": "p101582",
+                    "on_fpl_id": 326,
+                    "off_fpl_id": 331
+                }
+            ]
+        },
+        {
+            "summary": {
+                "gw": 1,
+                "kickoff": "Sun 7 Aug 2022, 16:30 BST",
+                "team_h": "West Ham United",
+                "team_a": "Manchester City",
+                "score_h": 0,
+                "score_a": 2
+            },
+            "subs": [
+                {
+                    "id": 1702978,
+                    "time": {
+                        "secs": 5506,
+                        "label": "90 +2"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, West Ham United. Flynn Downes replaces Jarrod Bowen.",
+                    "playerIds": [
+                        14383,
+                        8868
+                    ],
+                    "on_name": "Flynn Downes",
+                    "off_name": "Jarrod Bowen",
+                    "on_opta_id": "p220585",
+                    "off_opta_id": "p178186",
+                    "on_fpl_id": 509,
+                    "off_fpl_id": 465
+                },
+                {
+                    "id": 1702977,
+                    "time": {
+                        "secs": 5505,
+                        "label": "90 +2"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, West Ham United. Conor Coventry replaces Pablo Fornals.",
+                    "playerIds": [
+                        15211,
+                        25246
+                    ],
+                    "on_name": "Conor Coventry",
+                    "off_name": "Pablo Fornals",
+                    "on_opta_id": "p222017",
+                    "off_opta_id": "p217593",
+                    "on_fpl_id": 556,
+                    "off_fpl_id": 469
+                },
+                {
+                    "id": 1702974,
+                    "time": {
+                        "secs": 5283,
+                        "label": "89"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Manchester City. Kalvin Phillips replaces Rodri.",
+                    "playerIds": [
+                        10768,
+                        16286
+                    ],
+                    "on_name": "Kalvin Phillips",
+                    "off_name": "Rodri",
+                    "on_opta_id": "p155405",
+                    "off_opta_id": "p220566",
+                    "on_fpl_id": 325,
+                    "off_fpl_id": 315
+                },
+                {
+                    "id": 1702973,
+                    "time": {
+                        "secs": 5269,
+                        "label": "88"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Manchester City. Riyad Mahrez replaces Phil Foden.",
+                    "playerIds": [
+                        8983,
+                        14805
+                    ],
+                    "on_name": "Riyad Mahrez",
+                    "off_name": "Phil Foden",
+                    "on_opta_id": "p103025",
+                    "off_opta_id": "p209244",
+                    "on_fpl_id": 303,
+                    "off_fpl_id": 314
+                },
+                {
+                    "id": 1702972,
+                    "time": {
+                        "secs": 5268,
+                        "label": "88"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Manchester City. Cole Palmer replaces Kevin De Bruyne.",
+                    "playerIds": [
+                        49293,
+                        4288
+                    ],
+                    "on_name": "Cole Palmer",
+                    "off_name": "Kevin De Bruyne",
+                    "on_opta_id": "p244851",
+                    "off_opta_id": "p61366",
+                    "on_fpl_id": 316,
+                    "off_fpl_id": 301
+                },
+                {
+                    "id": 1702964,
+                    "time": {
+                        "secs": 4669,
+                        "label": "78"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Manchester City. Juli\u00e1n \u00c1lvarez replaces Erling Haaland.",
+                    "playerIds": [
+                        52723,
+                        65970
+                    ],
+                    "on_name": "Juli\u00e1n \u00c1lvarez",
+                    "off_name": "Erling Haaland",
+                    "on_opta_id": "p461358",
+                    "off_opta_id": "p223094",
+                    "on_fpl_id": 319,
+                    "off_fpl_id": 318
+                },
+                {
+                    "id": 1702961,
+                    "time": {
+                        "secs": 4667,
+                        "label": "78"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, Manchester City. Bernardo Silva replaces Ilkay G\u00fcndogan.",
+                    "playerIds": [
+                        5067,
+                        5101
+                    ],
+                    "on_name": "Bernardo Silva",
+                    "off_name": "Ilkay G\u00fcndogan",
+                    "on_opta_id": "p165809",
+                    "off_opta_id": "p59859",
+                    "on_fpl_id": 311,
+                    "off_fpl_id": 300
+                },
+                {
+                    "id": 1702944,
+                    "time": {
+                        "secs": 3373,
+                        "label": "57"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, West Ham United. Sa\u00efd Benrahma replaces Manuel Lanzini.",
+                    "playerIds": [
+                        20517,
+                        13872
+                    ],
+                    "on_name": "Sa\u00efd Benrahma",
+                    "off_name": "Manuel Lanzini",
+                    "on_opta_id": "p172841",
+                    "off_opta_id": "p86934",
+                    "on_fpl_id": 464,
+                    "off_fpl_id": 460
+                },
+                {
+                    "id": 1702945,
+                    "time": {
+                        "secs": 3367,
+                        "label": "57"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, West Ham United. Gianluca Scamacca replaces Michail Antonio.",
+                    "playerIds": [
+                        11434,
+                        9595
+                    ],
+                    "on_name": "Gianluca Scamacca",
+                    "off_name": "Michail Antonio",
+                    "on_opta_id": "p195899",
+                    "off_opta_id": "p57531",
+                    "on_fpl_id": 529,
+                    "off_fpl_id": 458
+                },
+                {
+                    "id": 1702923,
+                    "time": {
+                        "secs": 1690,
+                        "label": "29"
+                    },
+                    "type": "substitution",
+                    "text": "Substitution, West Ham United. Alphonse Areola replaces Lukasz Fabianski because of an injury.",
+                    "playerIds": [
+                        5748,
+                        3309
+                    ],
+                    "on_name": "Alphonse Areola",
+                    "off_name": "Lukasz Fabianski",
+                    "on_opta_id": "p84182",
+                    "off_opta_id": "p37096",
+                    "on_fpl_id": 473,
+                    "off_fpl_id": 455
+                }
+            ]
+        }
+    ]
+}
